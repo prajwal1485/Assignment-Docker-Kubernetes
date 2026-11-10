@@ -89,4 +89,4 @@ Homepage: http://localhost:30007
 Health Check: http://localhost:30007/health
 
 ## Author
-Om Sinkar
+Prajwal Jadhav
